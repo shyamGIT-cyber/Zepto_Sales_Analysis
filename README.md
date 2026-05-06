@@ -68,7 +68,7 @@ Some of the analysis done in this project:
 
 ##  Author
 
-Rohit Sonkar  
+Shyam Raj Sonkar  
 
 I have a background in Retail Management and hands-on experience working with data using SQL, Excel, and Power BI.  
 Currently transitioning into a Data Analyst role and building real-world projects to strengthen my skills.
