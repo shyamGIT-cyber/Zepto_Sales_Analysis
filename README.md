@@ -56,12 +56,22 @@ Some of the analysis done in this project:
 
 ---
 
-##  Sample Business Questions
+##  Quick Insights
 
-- Which products offer the highest discounts?
-- Which expensive products are out of stock?
-- Which category generates the most revenue?
-- Are there duplicate product listings?
+- High discounts are limited to specific products
+- Premium products are often out of stock
+- Revenue is dominated by a few categories
+- Duplicate data entries exist
+- Pricing inconsistencies required cleaning
+
+---
+
+##  Author
+
+Rohit Sonkar  
+
+I have a background in Retail Management and hands-on experience working with data using SQL, Excel, and Power BI.  
+Currently transitioning into a Data Analyst role and building real-world projects to strengthen my skills.
 
 ---
 
